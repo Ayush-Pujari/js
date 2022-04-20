@@ -1,0 +1,29 @@
+#h2 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(#29fffb 0%, #28cf0e 100%)
+}
+#h{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 23px;
+    
+}
+#n{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+#heading{
+    font-family: 'Lobster', cursive;
+}
+.m{
+    font-family: 'Bangers', cursive;
+font-family: 'Lobster', cursive;
+}
